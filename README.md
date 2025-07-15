@@ -1,5 +1,4 @@
-# Pedro Vitachi
-![Badge](https://img.shields.io/badge/EACH_USP_SI-680c14)
+# Pedro Vitachi ![Badge](https://img.shields.io/badge/EACH_USP_SI-680c14)
 
 <table>
   <tr>
