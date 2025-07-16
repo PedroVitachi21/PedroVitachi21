@@ -18,6 +18,12 @@ Falo inglês e português de modo fluente.
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroVitachi21/PedroVitachi21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroVitachi21/PedroVitachi21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroVitachi21/PedroVitachi21/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 📲 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-680c14?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-vitachi)
 [![Gmail](https://img.shields.io/badge/-Gmail-680c14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquevitachi@gmail.com)
